@@ -1,0 +1,1 @@
+C:\"QGIS Essen"\bin\pyrcc4.exe -o C:\Users\rsp\.qgis_214\python\plugins\SKLokalplanvaerktoej\resources.py C:\Users\rsp\.qgis_214\python\plugins\SKLokalplanvaerktoej\resources.qrc

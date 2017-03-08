@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/plugins/SKLokalplanvaerktoej">
+		<file>icon.png</file>
+		<file>icon_refresh.png</file>
+	</qresource>
+</RCC>
